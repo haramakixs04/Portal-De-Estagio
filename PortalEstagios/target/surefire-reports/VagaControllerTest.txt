@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: VagaControllerTest
--------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.529 s -- in VagaControllerTest
